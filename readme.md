@@ -10,6 +10,7 @@ instead of defining emotions as generic ``mood tags'' found on social platforms,
 
 Below is the tree-like structure of the project directory, detailing all included files and folders:
 
+```
 root/
 ├── data/
 │ ├── corpus_embeddings.pt 
@@ -39,7 +40,7 @@ root/
 ├── Results.ipynb
 ├── utils.py
 └── requirements.txt
-
+```
 
 ### Data
 
