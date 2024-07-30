@@ -20,15 +20,17 @@ root/
 │
 ├── dataset/
 │ ├── original/
-│ │ ├── tags.csv
-│ │ ├── tags_to_nrc.csv
-│ │ ├── emotions.csv
+│ │ ├── tags_to_emotions.csv
+│ │ ├── tags_to_nrc_matches.csv
+│ │ ├── tracks_to_emotions.csv
+│ │ ├── tracks_to_tags.csv
 │ │ └── metadata.csv
 │ │
 │ ├── balanced/
-│ │ ├── tags.csv
-│ │ ├── tags_to_nrc.csv
-│ │ ├── emotions.csv
+│ │ ├── tags_to_emotions.csv
+│ │ ├── tags_to_nrc_matches.csv
+│ │ ├── tracks_to_emotions.csv
+│ │ ├── tracks_to_tags.csv
 │ │ └── metadata.csv
 │ │
 │ └──
